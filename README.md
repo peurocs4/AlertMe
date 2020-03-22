@@ -1,0 +1,2 @@
+# AlertMe
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c1ae3aff682541459cdbd04000b9d70e)](https://app.codacy.com/manual/peurocs4/AlertMe?utm_source=github.com&utm_medium=referral&utm_content=peurocs4/AlertMe&utm_campaign=Badge_Grade_Settings)
