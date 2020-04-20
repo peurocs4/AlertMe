@@ -5,9 +5,7 @@ import java.time.Duration
 import java.time.LocalDate
 import java.time.LocalTime
 
-class TimePeriod {
-    private var startTime: LocalTime = LocalTime.MIN
-    private var endTime: LocalTime = LocalTime.MAX
+class TimePeriod(var startTime: LocalTime = LocalTime.MIN, var endTime: LocalTime = LocalTime.MAX) {
 
     fun set24Hours() {
         this.startTime = LocalTime.MIN
